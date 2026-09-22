@@ -1,4 +1,4 @@
-# Sistema de Contatos
+# Sistema de Cadastro
 
 Aplicação web desenvolvida como projeto acadêmico para a disciplina de Front-End do curso no **IPOG Goiânia**. O sistema permite cadastrar e consultar contatos de forma simples e intuitiva.
 
