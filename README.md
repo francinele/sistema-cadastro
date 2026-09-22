@@ -18,7 +18,7 @@ Aplicação web desenvolvida como projeto acadêmico para a disciplina de Front-
 
 ## 📁 Estrutura do projeto
 
-sistema-contatos/
+sistema-cadastro/
 
 ├── frontend/ # Aplicação React
 
@@ -37,7 +37,7 @@ sistema-contatos/
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/SEU-USUARIO/sistema-contatos.git
+git clone https://github.com/SEU-USUARIO/sistema-cadastro.git
 ```
 
 2. Instale as dependências do frontend
