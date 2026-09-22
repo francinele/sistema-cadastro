@@ -37,7 +37,7 @@ sistema-cadastro/
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/SEU-USUARIO/sistema-cadastro.git
+git clone https://github.com/francinele/sistema-cadastro.git
 ```
 
 2. Instale as dependências do frontend
