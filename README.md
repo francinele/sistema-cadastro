@@ -8,7 +8,7 @@ Aplicação web desenvolvida como projeto acadêmico para a disciplina de Front-
 - ✅ Consulta/listagem de contatos cadastrados
 - ✅ Página "Sobre" com informações do projeto
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas 
 
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
