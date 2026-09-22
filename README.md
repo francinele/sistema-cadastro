@@ -19,9 +19,13 @@ Aplicação web desenvolvida como projeto acadêmico para a disciplina de Front-
 ## 📁 Estrutura do projeto
 
 sistema-contatos/
+
 ├── frontend/ # Aplicação React
+
 ├── backend/ # Servidor/API
+
 └── README.md
+
 
 
 ## ⚙️ Como executar o projeto
