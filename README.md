@@ -1,16 +1,73 @@
-# React + Vite
+# Sistema de Contatos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação web desenvolvida como projeto acadêmico para a disciplina de Front-End do curso no **IPOG Goiânia**. O sistema permite cadastrar e consultar contatos de forma simples e intuitiva.
 
-Currently, two official plugins are available:
+## 📋 Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- ✅ Cadastro de contatos (nome, endereço e telefone)
+- ✅ Consulta/listagem de contatos cadastrados
+- ✅ Página "Sobre" com informações do projeto
 
-## React Compiler
+## 🚀 Tecnologias utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [React Router](https://reactrouter.com/)
+- CSS Modules
+<!-- se o backend for json-server, Node/Express etc, adicione aqui -->
 
-## Expanding the ESLint configuration
+## 📁 Estrutura do projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+sistema-contatos/
+├── frontend/ # Aplicação React
+├── backend/ # Servidor/API
+└── README.md
+
+
+## ⚙️ Como executar o projeto
+
+### Pré-requisitos
+- [Node.js](https://nodejs.org/) instalado
+
+### Passo a passo
+
+1. Clone o repositório
+```bash
+git clone https://github.com/SEU-USUARIO/sistema-contatos.git
+```
+
+2. Instale as dependências do frontend
+```bash
+cd frontend
+npm install
+```
+
+3. Instale as dependências do backend
+```bash
+cd ../backend
+npm install
+```
+
+4. Execute o backend
+```bash
+npm run start
+```
+<!-- ajuste o comando conforme seu package.json -->
+
+5. Em outro terminal, execute o frontend
+```bash
+cd frontend
+npm run dev
+```
+
+6. Acesse no navegador: `http://localhost:5173`
+
+## 👩‍💻 Autor(a)
+
+**Francinele Soares**
+Projeto desenvolvido para o curso de Front-End — IPOG Goiânia
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins acadêmicos.
+
